@@ -1,4 +1,4 @@
-<img width="860" height="387" alt="image" src="https://github.com/user-attachments/assets/c6323e4a-b39d-4f96-ab07-26b00f7af542" /># Monitoramento Sazonalidade de Queimadas
+# Monitoramento Sazonalidade de Queimadas
 
 ## Projeto
 Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de Big Data, no curso de Sistemas de Informação da Universidade Veiga de Almeida (UVA).
